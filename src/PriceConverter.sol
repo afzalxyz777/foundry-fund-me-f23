@@ -19,4 +19,4 @@ library PriceConverter {
         // the actual ETH/USD conversation rate, after adjusting the extra 0s.
         return ethAmountInUsd;
     }
-} 
+}
