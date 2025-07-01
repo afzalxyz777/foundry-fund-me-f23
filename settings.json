@@ -1,0 +1,6 @@
+{
+    "solidity.packageDefaultDependenciesContractsDirectory": "",
+    "solidity.packageDefaultDependenciesDirectory": "lib",
+    "solidity.includePaths": ["lib", "src"]
+  }
+  
